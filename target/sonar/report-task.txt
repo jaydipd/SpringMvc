@@ -1,0 +1,6 @@
+projectKey=com.app:spring_mvc_helloworld
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.app:spring_mvc_helloworld
+ceTaskId=AWJJUSQAYNVl9uPeDO3V
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWJJUSQAYNVl9uPeDO3V
